@@ -35,13 +35,13 @@ https://share.streamlit.io/zharmedia386/excel-plotter/main.py
 ## Screenshots
 
 ### Dropping CSV Files 
-<img src="https://github.com/zharmedia386/excel-plotter/blob/main/image-readme/dropping-files.png" />
+<img src="https://github.com/zharmedia386/excel-plotter/blob/master/image-readme/dropping-files.png" />
 
 ### Analyze Sales Record by Plotter
-<img src="https://github.com/zharmedia386/excel-plotter/blob/main/image-readme/analyze-data.png" />
+<img src="https://github.com/zharmedia386/excel-plotter/blob/master/image-readme/analyze-data.png" />
 
 ### Generate Files into Excel and HTML
-<img src="https://github.com/zharmedia386/excel-plotter/blob/main/image-readme/generate-files.png" />
+<img src="https://github.com/zharmedia386/excel-plotter/blob/master/image-readme/generate-files.png" />
 
 
 
